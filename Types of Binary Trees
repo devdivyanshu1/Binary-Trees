@@ -1,0 +1,5 @@
+1.>Full Binary Tree- Every node has either 0 or 2 children;
+2.>Complete Binary Tree->Filling of nodes should be leftwise mtlb bina left khali right  nhi bharna; left se bharna start kro;
+3.>Perfect Binary Tree-> All the leaf nodes should be at same level;
+4.>Balanced Bonary Tree->Height should be balanced mtlb log(n) base 2 hona chaiye;
+5.>Degenerate Tree-> skew type ka tree mtlb kch linked list type wala tree;
